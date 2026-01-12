@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Masukan nama anda: ");
-Console.ReadLine();
+﻿int nilai;
+string nama;
 
-Console.Write("nama bapak anda dapi");
+Console.WriteLine("Aplikasi Nilai Siswa");
